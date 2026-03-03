@@ -1,59 +1,69 @@
-# Business — Generative Engine Optimization Map
+# תורת אברהם — Generative Engine Optimization Map
+
+> A heartfelt memorial tribute website dedicated to the memory of Avraham Yosef Tamam z"l. The site creates an interactive space for remembrance featuring virtual candle lighting to honor his memory, a message board where visitors can share memories and condolences, and social sharing capabilities to spread the merit of remembrance across WhatsApp and Facebook. The atmosphere is one of reverence, community support, and perpetual memory.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://torat-avraham.zappy5.app
 Honor Avraham Yosef Tamam z&quot;l with virtual candle lighting, heartfelt messages, and shared memories. Join our community in keeping his legacy alive forever.
 
 ### Virtual Candle
-https://example.com/candle
+https://torat-avraham.zappy5.app/candle
 Illuminate his memory with a virtual Sabbath candle. Light a candle for Avraham Yosef Tamam z&quot;l and share the merit of remembrance with loved ones today.
 
 ### Message Board
-https://example.com/messages
+https://torat-avraham.zappy5.app/messages
 Read heartfelt tributes and post your own cherished memories of Avraham Yosef Tamam z&quot;l. Connect with family and friends through our interactive message board.
 
 ### Contact
-https://example.com/contact
+https://torat-avraham.zappy5.app/contact
 Reach out to the family, request information, or share how you&#39;d like to honor Avraham Yosef Tamam z&quot;l. We welcome your questions and support with open hearts.
 
 ### Products
-https://example.com/products
+https://torat-avraham.zappy5.app/products
 Our Products - תורת אברהם
 
 ### Product Detail
-https://example.com/product/:slug
+https://torat-avraham.zappy5.app/product/:slug
 Product Details - תורת אברהם
 
 ### Category
-https://example.com/category/:slug
+https://torat-avraham.zappy5.app/category/:slug
 Products - תורת אברהם
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://torat-avraham.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://torat-avraham.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://torat-avraham.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About תורת אברהם
+A heartfelt memorial tribute website dedicated to the memory of Avraham Yosef Tamam z"l. The site creates an interactive space for remembrance featuring virtual candle lighting to honor his memory, a message board where visitors can share memories and condolences, and social sharing capabilities to spread the merit of remembrance across WhatsApp and Facebook. The atmosphere is one of reverence, community support, and perpetual memory.
+
+## Target Audience
+family, friends, and community members
+
+## Industry
+memorial/tribute
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://torat-avraham.zappy5.app/sitemap.xml
+- **Robots.txt**: https://torat-avraham.zappy5.app/robots.txt

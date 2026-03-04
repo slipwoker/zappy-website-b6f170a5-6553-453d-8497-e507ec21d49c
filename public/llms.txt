@@ -1,6 +1,4 @@
-# תורת אברהם — Generative Engine Optimization Map
-
-> A heartfelt memorial tribute website dedicated to the memory of Avraham Yosef Tamam z"l. The site creates an interactive space for remembrance featuring virtual candle lighting to honor his memory, a message board where visitors can share memories and condolences, and social sharing capabilities to spread the merit of remembrance across WhatsApp and Facebook. The atmosphere is one of reverence, community support, and perpetual memory.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -52,15 +50,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About תורת אברהם
-A heartfelt memorial tribute website dedicated to the memory of Avraham Yosef Tamam z"l. The site creates an interactive space for remembrance featuring virtual candle lighting to honor his memory, a message board where visitors can share memories and condolences, and social sharing capabilities to spread the merit of remembrance across WhatsApp and Facebook. The atmosphere is one of reverence, community support, and perpetual memory.
-
-## Target Audience
-family, friends, and community members
-
-## Industry
-memorial/tribute
-
+## About Business
 ---
 
 # Additional Resources
